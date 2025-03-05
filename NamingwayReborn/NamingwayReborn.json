@@ -1,8 +1,8 @@
 {
   "Author": "Illustrious_April",
   "Name": "NamingwayReborn",
-  "Punchline": "Rename abilities and status effects.",
-  "Description": "A revival of the original Namingway plugin by anna. All credit to her for the concept and general skeleton of the code!",
+  "Punchline": "Restores classic FF spell and effect suffixes.",
+  "Description": "A spiritual successor to the namingway plugin by anna, currently without the customisation that her original offered.",
   "ApplicableVersion": "any",
   "Tags": [
     "ui",
