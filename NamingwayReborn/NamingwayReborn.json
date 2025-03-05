@@ -1,12 +1,12 @@
 {
-  "Author": "your name here",
+  "Author": "Illustrious_April",
   "Name": "NamingwayReborn",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Punchline": "Rename abilities and status effects.",
+  "Description": "A revival of the original Namingway plugin by anna. All credit to her for the concept and general skeleton of the code!",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
+    "ui",
     "plugin",
-    "goats"
+    "language"
   ]
 }
